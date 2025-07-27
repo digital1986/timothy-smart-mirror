@@ -1,6 +1,6 @@
 # 🪞 Smart Mirror Project (MagicMirror² Based)
 
-This project sets up a Smart Mirror using the [MagicMirror²](https://github.com/MichMich/MagicMirror) platform. It's intended to run on a Raspberry Pi connected to a monitor behind a two-way mirror.
+This project sets up a Smart Mirror using the [MagicMirror²]https://github.com/digital1986/timothy-smart-mirror)platform. It's intended to run on a Raspberry Pi connected to a monitor behind a two-way mirror.
 
 ## 💻 Features
 
@@ -13,8 +13,8 @@ This project sets up a Smart Mirror using the [MagicMirror²](https://github.com
 
 1. Clone this repo:
     ```bash
-    git clone https://github.com/your-username/smart-mirror.git
-    cd smart-mirror
+    git clone https://github.com/digital1986/timothy-smart-mirror
+    cd timothy-smart-mirror
     ```
 
 2. Run the install script:
@@ -41,6 +41,3 @@ Get your OpenWeatherMap API key at: https://openweathermap.org/api
 - Two-way mirror acrylic/glass
 - Frame enclosure
 
-## 📜 License
-
-MIT
