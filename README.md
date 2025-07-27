@@ -1,5 +1,5 @@
 # 🪞 Smart Mirror Project (MagicMirror² Based)
-
+[![Alt text](https://community-assets.home-assistant.io/optimized/4X/0/0/c/00c9140c3bf9a0b54cdc3f46ab437689aa1bce0c_2_450x1000.jpeg)](https://www.youtube.com/watch?v=-Wz3OT7VuQ8)
 This project sets up a Smart Mirror using the [MagicMirror²]https://github.com/digital1986/timothy-smart-mirror)platform. It's intended to run on a Raspberry Pi connected to a monitor behind a two-way mirror.
 
 ## 💻 Features
